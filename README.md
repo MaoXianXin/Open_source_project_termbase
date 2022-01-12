@@ -22,9 +22,9 @@
 
 
 
-代码处理等流程以及更多信息在 Wiki: https://github.com/MaoXianXin/Open_source_project_termbase/wiki/%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86%E6%B5%81%E7%A8%8B%E4%BB%A3%E7%A0%81
+[代码处理等流程以及更多信息在 Wiki](https://github.com/MaoXianXin/Open_source_project_termbase/wiki/%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86%E6%B5%81%E7%A8%8B%E4%BB%A3%E7%A0%81)
 
-第一次术语解释审核分工: https://github.com/MaoXianXin/Open_source_project_termbase/wiki/%E6%9C%AF%E8%AF%AD%E5%AE%A1%E6%A0%B8%E5%88%86%E5%B7%A5#%E7%AC%AC%E4%B8%80%E6%AC%A1%E6%9C%AF%E8%AF%AD%E8%A7%A3%E9%87%8A%E5%AE%A1%E6%A0%B8%E5%88%86%E5%B7%A5
+[第一次术语解释审核分工](https://github.com/MaoXianXin/Open_source_project_termbase/wiki/%E6%9C%AF%E8%AF%AD%E5%AE%A1%E6%A0%B8%E5%88%86%E5%B7%A5#%E7%AC%AC%E4%B8%80%E6%AC%A1%E6%9C%AF%E8%AF%AD%E8%A7%A3%E9%87%8A%E5%AE%A1%E6%A0%B8%E5%88%86%E5%B7%A5)
 
 
 
